@@ -21,4 +21,8 @@ Users can play against 3 difficulty levels of AI:
 
 Up to 10 players can play at a time. To prevent users from seeing other players' cards, players' hands are hidden by default and can be temporarily shown using the `show` command.
 
+###Screenshots###
+
+
+
 ##### Made with ♦♣♥♠ by Mueed Ur Rehman, Mike Park, Rishi Advani, and Vineet Kamat in CS 3110 at Cornell University.
