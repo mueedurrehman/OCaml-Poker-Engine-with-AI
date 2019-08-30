@@ -23,6 +23,7 @@ Up to 10 players can play at a time. To prevent users from seeing other players'
 
 ### Screenshots ###
 
+<div style = "text-align:center">
 ![Figure 1](https://github.com/mueedurrehman/OCaml-Poker-Engine-with-AI/blob/master/Poker%20Engine%20Images/1.png)
 <p align="center">Figure 1: This is how the first play of the game looks. Note that Rishi has his own avatar and the actions of Mike and Mueed are shown as well.</p>
 
@@ -72,6 +73,6 @@ Up to 10 players can play at a time. To prevent users from seeing other players'
 
 ![Figure 17](https://github.com/mueedurrehman/OCaml-Poker-Engine-with-AI/blob/master/Poker%20Engine%20Images/17.png)
 <p align="center">Figure 17: Saved json file, can use load at the start to continue the game.</p>
-
+</div>
 
 ##### Made with ♦♣♥♠ by Mueed Ur Rehman, Mike Park, Rishi Advani, and Vineet Kamat in CS 3110 at Cornell University.
