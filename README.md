@@ -51,10 +51,9 @@ Up to 10 players can play at a time. To prevent users from seeing other players'
 ![Figure 9](https://github.com/mueedurrehman/OCaml-Poker-Engine-with-AI/blob/master/Poker%20Engine%20Images/9.png)
 <p align="center">Figure 9: The avatar selection screen. Note that the engine is robust and not only checks for inputs of the correct type but also checks for inputs in the right range.</p>
 
-<div style = "text-align:center">
 ![Figure 10](https://github.com/mueedurrehman/OCaml-Poker-Engine-with-AI/blob/master/Poker%20Engine%20Images/10.png)
 <p align="center">Figure 10: The AI is thinking. This prompt is given so the user knows to wait. Also shown is the avatar for the AI, a throwback to the classic PCs of the 90s.</p>
-</div>
+
 ![Figure 11](https://github.com/mueedurrehman/OCaml-Poker-Engine-with-AI/blob/master/Poker%20Engine%20Images/11.png)
 <p align="center">Figure 11: The AI has bet $240 (let’s see if it can win)</p>
 
@@ -74,6 +73,6 @@ Up to 10 players can play at a time. To prevent users from seeing other players'
 
 ![Figure 17](https://github.com/mueedurrehman/OCaml-Poker-Engine-with-AI/blob/master/Poker%20Engine%20Images/17.png)
 <p align="center">Figure 17: Saved json file, can use load at the start to continue the game.</p>
-</div>
+
 
 ##### Made with ♦♣♥♠ by Mueed Ur Rehman, Mike Park, Rishi Advani, and Vineet Kamat in CS 3110 at Cornell University.
